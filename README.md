@@ -4,9 +4,11 @@
 
 Author: [Zmitser Furmanau](https://github.com/zmitserfurmanau)
 
-#### Contacts
+#### Contacts:
 
-Telegram **[@zmitserfurmanau](https://t.me/zmitserfurmanau)** Email **[zmitserfurmanau@gmail.com](mailto:zmitserfurmanau@gmail.com)** Discord **Ƶmitser Furmanaŭ#2429**
+Telegram: **[@zmitserfurmanau](https://t.me/zmitserfurmanau)**
+Email: **[zmitserfurmanau@gmail.com](mailto:zmitserfurmanau@gmail.com)**
+Discord: **Ƶmitser Furmanaŭ#2429**
 
 Task: [RSS Virtual Keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md)
 
